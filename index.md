@@ -33,7 +33,8 @@ There are many articles about this guy since industry kind of noticed already th
 
 Know ambitions of people in your company, make sure that there are at least some whose main goal is to build awesome software products for your customers and provide right incentives to support those fuckers in their ambitions.
 
-======
+---
+
 #### Support or Contact
 
 Wanna contribute and bitch about software development also? Or perhaps you want to bitch about the rablings of a mad developer?
