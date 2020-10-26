@@ -1,4 +1,8 @@
-<img src="mad_developer.png" width="330" height="190" style="margin-top: -10em; margin-left: 20em"/>
+<img
+	src="mad_developer.png"
+	width="330"
+	height="190"
+	style="margin-top: -10em; margin-left: 20em; box-shadow: none"/>
 
 A dark place where you will find gnarly frustrated developer rants about all the crap that the developer
 steps into in the day-to-day purgatory life of software development.
