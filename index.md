@@ -13,12 +13,14 @@ reality.
 
 # Rants
 
+## All sorts of fuckers
 <details>
- 	<summary><b>All sorts of fuckers</b></summary>
-	So at this company there are many fine and ambitious developers.
+ 	<summary>Read...</summary>
 
-### Most of them are super ambitious but their ambition is focused completely wrong.
-	Here are some examples.
+	So at this company there are many fine and ambitious developers.
+	Most of them are super ambitious but their ambition is focused completely wrong.
+	Here are some of those examples.
+
 
 	For example there is a "visibility addict" colleague. This motherfucker will stick his head into every single issue that in any way relates to talking with other teams or external stakeholders. It is so perfectly clear that this guy does not give a flying fuck about doing externally "invisible" work and only digs for tasks that can put him on the company radar somehow.
 	Terrible fucking guy to work with, you will feel his elbowing every time team needs to communicate with the outside world. Also, he will be sounding his horn and bragging on company chats for every single fucking accomplishment he does. This guy is ambitious but his ambition is limited to the nearest company stakeholders. He does not have higher ambitions than that, he just wants his name mentioned many times in Slack.
@@ -35,6 +37,7 @@ reality.
 	There are many articles about this guy since industry kind of noticed already that he is fucking deprecated and probably there is not much more to say about him. Like others, he is also very ambitious and his ambition rests mainly on keeping the position of a smartest person in the room and never allowing other low level peasant developers to appear smarter than he does. Now this involves quite a few advanced techniques. Such as selling complexity by fogging everyone's sight with making things appear more complex than they actually are. Since this guy is in an ivory tower and you can not really get down to often from a high tower to code with your code monkey colleagues, he just comes down from time to time, sells some complex gibberish story, makes a fucking whiteboard drawing where tree boxes and a cylinder are talking with each other and codes some fucking useless proof of concept that does not prove shit. Then he drops his ivory mic, goes back and climbs his tower and leaves rest of you fuckers to finish up "implementation details" of his brilliant vision of three boxes and a cylinder. This motherfucker is most dangerous of all since he can actually decide all the things but his ambitions do not reach far beyond keeping his precious ivory tower to himself.
 
 	Know ambitions of people in your company, make sure that there are at least some whose main goal is to build awesome software products for your customers and provide right incentives to support them in their ambitions.
+
 </details>
 
 #### Support or Contact
