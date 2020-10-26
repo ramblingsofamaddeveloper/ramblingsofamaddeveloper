@@ -1,4 +1,4 @@
-<img src="mad_developer.svg"/>
+<img src="mad_developer.png"/>
 A dark place where you will find gnarly frustrated developer rants about all the crap that the developer
 steps into in the day-to-day purgatory life of software development.
 
