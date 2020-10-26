@@ -7,17 +7,17 @@
 A dark place where you will find gnarly frustrated developer rants about all the crap that the developer
 steps into in the day-to-day purgatory life of software development.
 
-## Disclaimer
+#### Disclaimer!
 Consider this content more of a personal therapy outlet than a quality read or in any way realistic description of
 reality.
 
-## Rants
+# Rants
 
 <details>
  	<summary><b>All sorts of fuckers</b></summary>
 	So at this company there are many fine and ambitious developers.
 
-	Most of them are super ambitious but their ambition is focused completely wrong.
+### Most of them are super ambitious but their ambition is focused completely wrong.
 	Here are some examples.
 
 	For example there is a "visibility addict" colleague. This motherfucker will stick his head into every single issue that in any way relates to talking with other teams or external stakeholders. It is so perfectly clear that this guy does not give a flying fuck about doing externally "invisible" work and only digs for tasks that can put him on the company radar somehow.
@@ -37,7 +37,7 @@ reality.
 	Know ambitions of people in your company, make sure that there are at least some whose main goal is to build awesome software products for your customers and provide right incentives to support them in their ambitions.
 </details>
 
-### Support or Contact
+#### Support or Contact
 
 Wanna contribute and bitch about software development also?
 Or perhaps you want to bitch about the rablings of a mad developer?
