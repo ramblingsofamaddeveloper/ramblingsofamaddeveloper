@@ -36,4 +36,4 @@ Know ambitions of people in your company, make sure that there are at least some
 
 Wanna contribute and bitch about software development also? Or perhaps you want to bitch about the rablings of a mad developer?
 
-Either way contact mad developer at ramblingsofamaddeveloper@gmail.com.
+Either way contact mad developer at <a href="mailto:ramblingsofamaddeveloper@gmail.com">ramblingsofamaddeveloper@gmail.com</a>.
