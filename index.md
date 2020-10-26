@@ -4,9 +4,6 @@
 	height="190"
 	style="margin-top: -10em; margin-left: 20em; box-shadow: none"/>
 
-A dark place where you will find gnarly frustrated developer rants about all the crap that the developer
-steps into in the day-to-day purgatory life of software development.
-
 #### Disclaimer!
 Consider this content more of a personal therapy outlet than a quality read or in any way a realistic description of
 reality.
