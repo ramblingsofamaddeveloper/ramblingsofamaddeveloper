@@ -8,7 +8,7 @@ A dark place where you will find gnarly frustrated developer rants about all the
 steps into in the day-to-day purgatory life of software development.
 
 #### Disclaimer!
-Consider this content more of a personal therapy outlet than a quality read or in any way realistic description of
+Consider this content more of a personal therapy outlet than a quality read or in any way a realistic description of
 reality.
 
 ## All sorts of fuckers
