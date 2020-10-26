@@ -30,6 +30,20 @@ There are many articles about this guy since industry kind of noticed already th
 
 Know ambitions of people in your company, make sure that there are at least some whose main goal is to build awesome software products for your customers and provide right incentives to support those fuckers in their ambitions.
 
+## Proactive and reactive QA
+
+I have been working in software industry for almost a decade now and during that time I worked with many QA engineers. There are many different QAs out there and I will describe characteristics of some that I encountered.
+
+On my first job I had a colleague that was, what I would call, a "ninja QA". This guy was a QA with super strong tech knowledge, he actually knew how to write software and was even better at it than quite some of the devs we had.
+
+He was writing proof of concept for new frameworks, presenting them to the rest of the company and holding tech talks every now and then. This is the guy that will try very hard to automate most of the QA work and avoid manual testing at all costs. The thing with this guy was that you could clearly see he was not happy with his QA role, he was more focusing on getting closer to development than taking care of the product quality. And this is perfectly fine. Although most of the time the guy looked grumpy and somehow frustrated.
+
+Another type of QA that I encountered is a "proactive manual tester". QA colleagues I worked with that fall under this category are usually friendly laid back bunch that you can work with quite well. There were quite some QAs of this type, and this is the category that I encountered most often. Usually these QAs are good team players and you can rely on them for testing your features in detail. They will click through the product as user would and they will find quite some of your bugs during the process. I found these QAs great to work with, and also quite useful for finding holes in the quality of your delivery. These guys are testing your code thoroughly before prod, trying to find bugs and give fast feedback, thus the "proactive" nickname.
+
+Last but not the least, are "reactive testers". I must say this is the type I got quite angry with few times. These guys are usually not laid back, like most of proactive testers. In my experience they were quite invested in the company, but unfortunatelly not in the actual testing process but perhaps chasing some different personal agenda. The nickname "reactive" comes from the fact that these QAs do not test much prior to prod. They come to you after patiently waiting that you deliver your code to prod, with issues and bugs that they have found. Usually these findings come from someone from other team complaining about something or customer support getting tickets from end users. From all the QA types this type is most concerned about counting the actual number of bugs that they have found. They see bug count as a metric for the success of their work. Which is quite opposite of the "proactive" QA that with his work prevents bugs from being created in the first place.
+
+So metrics by which QAs measure success of their work differ from type to type.
+
 ---
 
 #### Support or Contact
