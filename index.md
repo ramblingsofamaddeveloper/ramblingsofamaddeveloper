@@ -1,3 +1,4 @@
+![Mad developer logo][https://raw.githubusercontent.com/ramblingsofamaddeveloper/ramblingsofamaddeveloper/master/mad_developer.svg]
 A dark place where you will find gnarly frustrated developer rants about all the crap that the developer
 steps into in the day-to-day purgatory life of software development.
 
