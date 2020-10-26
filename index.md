@@ -9,6 +9,7 @@ Consider this content more of a personal therapy outlet than a quality read or i
 reality.
 
 ## All sorts of fuckers
+###### Aug 04, 2020
 
 So at this company there are many fine and smart developers.
 Most of them are super ambitious but their ambition is focused completely wrong.
@@ -31,6 +32,7 @@ There are many articles about this guy since industry kind of noticed already th
 Know ambitions of people in your company, make sure that there are at least some whose main goal is to build awesome software products for your customers and provide right incentives to support those fuckers in their ambitions.
 
 ## Proactive and reactive QA
+###### July 25, 2020
 
 I have been working in software industry for almost a decade now and during that time I worked with many QA engineers. There are many different QAs out there and I will describe characteristics of some that I encountered.
 
