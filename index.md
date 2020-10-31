@@ -23,7 +23,7 @@ Terrible fucking guy to work with, you will feel his elbowing every time team ne
 	src="visibility_addict.svg"
 	style="display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
 
-This guy is ambitious but his ambition is limited to the nearest company stakeholders. His ambition is limited to serotonine boosts he gets when his name gets mentioned in Slack.
+This guy is ambitious but his ambition is limited to the nearest company stakeholders. His ambition does not extend much further from serotonine boosts he gets when his name gets mentioned in Slack.
 
 Then there is the **"no risk guy"**.
 This is the motherfucker that will avoid aaany fucking task that involves risking his reputation or sticking his neck towards stakeholders in any way. So if we would put all tasks on the "reputation risk" axis, this guy will scratch and dig with all his might for those tasks closest to the zero point on the axis.
