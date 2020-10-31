@@ -2,7 +2,7 @@
 	src="mad_developer.png"
 	width="330"
 	height="190"
-	style="margin-top: -10em; margin-left: 10em; box-shadow: none"/>
+	style="margin-top: -10em; display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
 
 #### Disclaimer!
 Consider this content more of a personal therapy outlet than a quality read or in any way a realistic description of
@@ -11,9 +11,9 @@ reality.
 ## All sorts of fuckers
 ###### Aug 04, 2020
 
-So at this company there are many fine and smart developers.
-Most of them are super ambitious but their ambition is focused completely wrong.
-Here are some of those examples.
+So I've met a whole bunch of fine and smart developers.
+Most of them are super ambitious but sometimes it happens that their ambition is focused completely wrong.
+Here are some of those exceptional examples.
 
 For example there is a **"visibility addict"**. This motherfucker will stick his head into every single issue that in any way relates to talking with other teams or external stakeholders. It is so perfectly clear that this guy does not give a flying fuck about doing externally "invisible" work and only digs for tasks that can put him on the company radar somehow.
 Terrible fucking guy to work with, you will feel his elbowing every time team needs to communicate with the outside world. Also, he will be sounding his horn and bragging on company chats for every single fucking accomplishment he does. This guy is ambitious but his ambition is limited to the nearest company stakeholders. He does not have higher ambitions than that and his serotonine levels are highly corelated with the number of times his name is mentioned in Slack.
