@@ -24,6 +24,11 @@ So if we would put all tasks on the "reputation risk" axis, this guy will scratc
 For example there are initiatives where many stakeholders are waiting for delivery, many people will give you feedback for it, and chances are you will not get it right the first time and you will need to iterate. Usually new features or big feature epics. This guy will avoid this kind of potential rep risks, delegate and look for scape goats and try not to involve himself in leading such initiatives. On the other hand he will comfortably enjoy coming up with "no rep risk" tasks. These are the tings for which there is no fucking way in the world you can fuck up. You can only gain some rep. So this guy will come up with lots of improvements, like improving logging, observability, drawing diagrams, facilitating sessions about which he heard about in most recent software blogs and so on. While no one could argue that these are not fine and great improvements, on their own none of these will bring direct value to your customers and put bread on the table. But for this guy this is perfectly fine, his ambition ends far before reaching any business goals or customers. He does not give a shit about the business or the product he is building (if building it at all, because actually building stuff is risky), he just wants to score some rep with no risk and elevate further on the company ladder.
 
 Also we have a **"fancy tech stack hunter"**.
+
+<img
+	src="cv_curator.svg"
+	style="display: block; margin-left :auto; margin-right: auto;"/>
+
 This guy's primary ambition is to fill up his juicy curriculum vitae with all the new fancy technologies, frameworks and databases that he can get his hands on. He will hunt for new opportunities to add some work experience on the latest tech stack in the company so that he can proudly stick it in his resume. Usually this guy will waste your time by being very opinionated in pushing to use his preferred techs in situations where the choice actually does not matter that much and he just wants to use "his" because it is fancier. His ambition rests on curating his CV endlesly every weekend while drinking coffee and eating bagels.
 
 And finally there is the famous **"ivory tower architect, decider of everything, master-fucking-mind guy"**.
