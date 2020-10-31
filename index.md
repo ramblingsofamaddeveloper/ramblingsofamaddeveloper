@@ -2,7 +2,7 @@
 	src="mad_developer.png"
 	width="330"
 	height="190"
-	style="margin-top: -10em; margin-left: 20em; box-shadow: none"/>
+	style="margin-top: -10em; margin-left: 10em; box-shadow: none"/>
 
 #### Disclaimer!
 Consider this content more of a personal therapy outlet than a quality read or in any way a realistic description of
