@@ -1,7 +1,7 @@
 <img
 	src="mad_developer.png"
-	width="330"
-	height="190"
+	width="2500"
+	height="1667"
 	style="margin-top: -10em; display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
 
 #### Disclaimer!
