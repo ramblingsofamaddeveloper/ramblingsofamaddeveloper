@@ -1,7 +1,7 @@
 <img
 	src="mad_developer.png"
-	width="2500"
-	height="1667"
+	width="330"
+	height="190"
 	style="margin-top: -10em; display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
 
 #### Disclaimer!
@@ -30,6 +30,8 @@ And finally there is the famous **"ivory tower architect, decider of everything,
 
 <img
 	src="ivory_tower.png"
+	width="2500"
+	height="1667"
 	style="display: block; margin-left :auto; margin-right: auto;"/>
 
 There are many articles about this guy since industry kind of noticed already that he is fucking deprecated and probably there is not much more to say about him. Like others, he is also very ambitious and his ambition rests mainly on keeping the position of the smartest person in the room and never allowing other low level peasant developers to appear smarter than he does. Now this involves quite a few advanced techniques. Such as selling complexity by fogging everyone's sight with making things appear more complex than they actually are. Since this guy is in an ivory tower and you can not really get down to often from a high tower to code with your code monkeys, he just comes down from time to time, sells some complex gibberish story, makes a fucking whiteboard drawing where tree boxes and a cylinder are talking with each other and codes some fucking useless proof of concept that does not prove shit. Then he drops his ivory mic, goes and climbs back to his tower and leaves rest of you fuckers to finish up "implementation details" of his brilliant vision of three boxes and a cylinder. This motherfucker is the most dangerous of all, since he can actually decide all the things but his ambitions do not reach far beyond keeping his precious ivory tower to himself.
