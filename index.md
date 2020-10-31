@@ -17,12 +17,13 @@ Here are some of those exceptional examples.
 
 For example there is a **"visibility addict"**.
 This motherfucker will stick his head into every single issue that in any way relates to talking with other teams or external stakeholders. It is so perfectly clear that this guy does not give a flying fuck about doing externally "invisible" work and only digs for tasks that can put him on the company radar somehow.
+Terrible fucking guy to work with, you will feel his elbowing every time team needs to communicate with the outside world. Also, he will be sounding his horn and bragging on company chats for every single fucking accomplishment he does.
 
 <img
 	src="visibility_addict.svg"
 	style="display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
 
-Terrible fucking guy to work with, you will feel his elbowing every time team needs to communicate with the outside world. Also, he will be sounding his horn and bragging on company chats for every single fucking accomplishment he does. This guy is ambitious but his ambition is limited to the nearest company stakeholders. His ambition is limited to serotonine boosts he gets when his name gets mentioned in Slack.
+This guy is ambitious but his ambition is limited to the nearest company stakeholders. His ambition is limited to serotonine boosts he gets when his name gets mentioned in Slack.
 
 Then there is the **"no risk guy"**.
 This is the motherfucker that will avoid aaany fucking task that involves risking his reputation or sticking his neck towards stakeholders in any way.
@@ -31,12 +32,11 @@ For example there are initiatives where many stakeholders are waiting for delive
 
 Also we have a **"fancy tech stack hunter"**.
 This guy's primary ambition is to fill up his juicy curriculum vitae with all the new fancy technologies, frameworks and databases that he can get his hands on.
+He will hunt for new opportunities to add some work experience on the latest tech stack in the company so that he can proudly stick it in his resume. Usually this guy will waste your time by being very opinionated in pushing to use his preferred techs in situations where the choice actually does not matter that much and he just wants to use "his" because it is fancier. His ambition rests on curating his CV endlesly every weekend while drinking coffee and eating bagels.
 
 <img
 	src="cv_curator.svg"
 	style="display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
-
-He will hunt for new opportunities to add some work experience on the latest tech stack in the company so that he can proudly stick it in his resume. Usually this guy will waste your time by being very opinionated in pushing to use his preferred techs in situations where the choice actually does not matter that much and he just wants to use "his" because it is fancier. His ambition rests on curating his CV endlesly every weekend while drinking coffee and eating bagels.
 
 And finally there is the famous **"ivory tower architect, decider of everything, master-fucking-mind guy"**.
 There are many articles about this guy since industry kind of noticed already that he is fucking deprecated and probably there is not much more to say about him.
