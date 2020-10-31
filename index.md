@@ -15,7 +15,13 @@ So I've met a whole bunch of fine and smart developers.
 Most of them are super ambitious but sometimes it happens that their ambition is focused completely wrong.
 Here are some of those exceptional examples.
 
-For example there is a **"visibility addict"**. This motherfucker will stick his head into every single issue that in any way relates to talking with other teams or external stakeholders. It is so perfectly clear that this guy does not give a flying fuck about doing externally "invisible" work and only digs for tasks that can put him on the company radar somehow.
+For example there is a **"visibility addict"**.
+This motherfucker will stick his head into every single issue that in any way relates to talking with other teams or external stakeholders. It is so perfectly clear that this guy does not give a flying fuck about doing externally "invisible" work and only digs for tasks that can put him on the company radar somehow.
+
+<img
+	src="visibility_addict.svg"
+	style="display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
+
 Terrible fucking guy to work with, you will feel his elbowing every time team needs to communicate with the outside world. Also, he will be sounding his horn and bragging on company chats for every single fucking accomplishment he does. This guy is ambitious but his ambition is limited to the nearest company stakeholders. His ambition is limited to serotonine boosts he gets when his name gets mentioned in Slack.
 
 Then there is the **"no risk guy"**.
@@ -24,20 +30,22 @@ So if we would put all tasks on the "reputation risk" axis, this guy will scratc
 For example there are initiatives where many stakeholders are waiting for delivery, many people will give you feedback for it, and chances are you will not get it right the first time and you will need to iterate. Usually new features or big feature epics. This guy will avoid this kind of potential rep risks, delegate and look for scape goats and try not to involve himself in leading such initiatives. On the other hand he will comfortably enjoy coming up with "no rep risk" tasks. These are the tings for which there is no fucking way in the world you can fuck up. You can only gain some rep. So this guy will come up with lots of improvements, like improving logging, observability, drawing diagrams, facilitating sessions about which he heard about in most recent software blogs and so on. While no one could argue that these are not fine and great improvements, on their own none of these will bring direct value to your customers and put bread on the table. But for this guy this is perfectly fine, his ambition ends far before reaching any business goals or customers. He does not give a shit about the business or the product he is building (if building it at all, because actually building stuff is risky), he just wants to score some rep with no risk and elevate further on the company ladder.
 
 Also we have a **"fancy tech stack hunter"**.
+This guy's primary ambition is to fill up his juicy curriculum vitae with all the new fancy technologies, frameworks and databases that he can get his hands on.
 
 <img
 	src="cv_curator.svg"
 	style="display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
 
-This guy's primary ambition is to fill up his juicy curriculum vitae with all the new fancy technologies, frameworks and databases that he can get his hands on. He will hunt for new opportunities to add some work experience on the latest tech stack in the company so that he can proudly stick it in his resume. Usually this guy will waste your time by being very opinionated in pushing to use his preferred techs in situations where the choice actually does not matter that much and he just wants to use "his" because it is fancier. His ambition rests on curating his CV endlesly every weekend while drinking coffee and eating bagels.
+He will hunt for new opportunities to add some work experience on the latest tech stack in the company so that he can proudly stick it in his resume. Usually this guy will waste your time by being very opinionated in pushing to use his preferred techs in situations where the choice actually does not matter that much and he just wants to use "his" because it is fancier. His ambition rests on curating his CV endlesly every weekend while drinking coffee and eating bagels.
 
 And finally there is the famous **"ivory tower architect, decider of everything, master-fucking-mind guy"**.
+There are many articles about this guy since industry kind of noticed already that he is fucking deprecated and probably there is not much more to say about him.
 
 <img
 	src="ivory_tower.svg"
 	style="display: block; margin-left :auto; margin-right: auto; box-shadow: none;"/>
 
-There are many articles about this guy since industry kind of noticed already that he is fucking deprecated and probably there is not much more to say about him. Like others, he is also very ambitious and his ambition rests mainly on keeping the position of the smartest person in the room and never allowing other low level peasant developers to appear smarter than he does. Now this involves quite a few advanced techniques. Such as selling complexity by fogging everyone's sight with making things appear more complex than they actually are. Since this guy is in an ivory tower and you can not really get down to often from a high tower to code with your code monkeys, he just comes down from time to time, sells some complex gibberish story, makes a fucking whiteboard drawing where tree boxes and a cylinder are talking with each other and codes some fucking useless proof of concept that does not prove shit. Then he drops his ivory mic, goes and climbs back to his tower and leaves rest of you fuckers to finish up "implementation details" of his brilliant vision of three boxes and a cylinder. This motherfucker is the most dangerous of all, since he can actually decide all the things but his ambitions do not reach far beyond keeping his precious ivory tower to himself.
+Like others, he is also very ambitious and his ambition rests mainly on keeping the position of the smartest person in the room and never allowing other low level peasant developers to appear smarter than he does. Now this involves quite a few advanced techniques. Such as selling complexity by fogging everyone's sight with making things appear more complex than they actually are. Since this guy is in an ivory tower and you can not really get down to often from a high tower to code with your code monkeys, he just comes down from time to time, sells some complex gibberish story, makes a fucking whiteboard drawing where tree boxes and a cylinder are talking with each other and codes some fucking useless proof of concept that does not prove shit. Then he drops his ivory mic, goes and climbs back to his tower and leaves rest of you fuckers to finish up "implementation details" of his brilliant vision of three boxes and a cylinder. This motherfucker is the most dangerous of all, since he can actually decide all the things but his ambitions do not reach far beyond keeping his precious ivory tower to himself.
 
 Know ambitions of people in your company, make sure that there are at least some whose main goal is to build awesome software products for your customers and provide right incentives to support those fuckers in their ambitions.
 
