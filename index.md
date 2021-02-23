@@ -33,7 +33,7 @@ So you finish the conversation with a sour smile on your face, you look at that 
 
 Note to self:
  * profits are not shared fairly with engineers and
- * profits are not shared fairly among engineer.
+ * profits are not shared fairly among engineers.
 
 
 ## All sorts of fuckers
