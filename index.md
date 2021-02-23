@@ -17,7 +17,7 @@
 Consider this content more of a personal therapy outlet than a quality read or in any way a realistic description of
 reality.
 
-## [Profits & engineers](#profits-and-engineers)
+## Profits & engineers
 ###### Feb 23, 2021
 
 It is that time of the year when, after you've been busting your programmer ass whole year, the time has come to talk about raise and promotions. First you need to complete your end of the year review, and finish all the fucking nonsense "SMART" goals that your manager had forced you to come up with, since he has no fucking idea what kind of engineer you are or how the fuck you are contributing to the company.
