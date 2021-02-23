@@ -17,6 +17,25 @@
 Consider this content more of a personal therapy outlet than a quality read or in any way a realistic description of
 reality.
 
+## Profits & engineers
+###### Feb 23, 2021
+
+It is that time of the year when, after you've been busting your programmer ass whole year, the time has come to talk about raise and promotions. First you need to complete your end of the year review, and finish all the fucking nonsense "SMART" goals that your manager had forced you to come up with, since he has no fucking idea what kind of engineer you are or how the fuck you are contributing to the company.
+
+You are having talks with this guy every now and then, he asks you how you are doing and you are chatting away answering his repetitive questions. You do not have any agenda, you are just keeping him up to date. Then after some time passes and as you realize that your manager is not mentioning promotions or raises or anything of that sort, you start figuring out that you've been doing this wrong the whole time. While you've been casually chatting with this fucker, you were supposed to self promote, gloat about your achievements and put yourself on a pedestal continuously during these chats to imprint your superior vision of your profesional persona in your manager's mind. For some reason you had this wrong assumption that among engineers and analytical thinkers this is not needed, and that credits and recognitions will just come with results. But, you soon realize, the assumption was wrong and, as the rest of the homo sapiens species, primates in software engineering world are also keen on judging the monkey by the loudness of his chest beating. And you also realize that your engineering value that you are delivering to the company, which can be best understood by other engineers, is not being evaluated by them, but by managers who can not have a good idea on how much each engineer contributes.
+
+So then you take your keyboard and start recollecting all the projects you have completed, all the designs you contributed to and all the damn lines of beatifully clean and neat code you wrote. You summarize all that in a nice email and press "Send" and the chest beating is on its way to a monkey which is higher in the hierarchy of software monkeys than you are. Your manager reads it, raises his eyebrow as he notices that you might not be that useless that he thought and finally starts talking about promotion and raise and for a moment you feel as if all your hard work is recognized.
+
+Then, after serveral months, few broken promises about when you will get the actual promotion and a raise, and a lot of delaying due to late budgets, finally the day comes. Your manager tells you that you have been promoted! Wohooooo!
+As he congratulates you he does not mention a word about a salary increase due to promotion.
+You ask about it, and he starts talking about bad budget they got, how not everyone got promoted and so on...
+So you finish the conversation with a sour smile on your face, you look at that fucking list of achievements and you start adding it to your CV since obviously you will need to find another corporation to slave for.
+
+Note to self:
+ * profits are not shared fairly with engineers and
+ * profits are not shared fairly among engineer.
+
+
 ## All sorts of fuckers
 ###### Aug 04, 2020
 
